@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/LR_1.dir/program_1.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
