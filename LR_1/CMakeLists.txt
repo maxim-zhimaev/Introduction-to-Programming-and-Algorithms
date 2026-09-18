@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 4.3)
+project(LR_1)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(LR_1 main.cpp
+        h.cpp
+        h.h)
