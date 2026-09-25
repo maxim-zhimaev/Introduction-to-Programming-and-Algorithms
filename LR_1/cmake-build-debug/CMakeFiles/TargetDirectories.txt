@@ -1,3 +1,0 @@
-C:/Users/mofamixer/Documents/My Code/CLionProjects/LR_1/cmake-build-debug/CMakeFiles/LR_1.dir
-C:/Users/mofamixer/Documents/My Code/CLionProjects/LR_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mofamixer/Documents/My Code/CLionProjects/LR_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

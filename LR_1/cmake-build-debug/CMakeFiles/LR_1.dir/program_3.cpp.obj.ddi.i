@@ -1,5 +1,0 @@
-# 0 "C:/Users/mofamixer/Documents/My Code/CLionProjects/LR_1/program_3.cpp"
-# 1 "C:\\Users\\mofamixer\\Documents\\My Code\\CLionProjects\\LR_1\\cmake-build-debug//"
-# 0 "<built-in>"
-# 0 "<command-line>"
-# 1 "C:/Users/mofamixer/Documents/My Code/CLionProjects/LR_1/program_3.cpp"
